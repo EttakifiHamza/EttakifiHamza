@@ -1,12 +1,8 @@
 # Hi, I'm Hamza Ettakifi 👋
-
-Welcome to my GitHub profile!
-
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/hamzaettakifi.hamka.svg)
 <p align="center">
 <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer+%7C+AI+%7C+Data+%7C+Mobile;Turning+Ideas+into+Scalable+Digital+Products;+Leveraging+Data+%26+AI+to+Create+Smart+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Full-Stack+Developer+%7C+AI+%7C+Data+%7C+Mobile;Turning+Ideas+into+Scalable+Digital+Products;+Leveraging+Data+%26+AI+to+Create+Smart+Experiences" alt="Typing SVG" />
 </a>
 <!-- </a> -->
 </p>
