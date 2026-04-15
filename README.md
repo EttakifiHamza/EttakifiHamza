@@ -2,6 +2,32 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=118ab2&text=Hamza%20Ettakifi-nl-Innovating%20with%20Code%20|%20Web%20|%20AI%20|%20IoT%20|%20Mobile&reversal=true&textBg=false&fontColor=FDFCDC&fontSize=35&animation=twinkling&rotate=0" alt="Typing SVG">
 </p>
 <p align="center">
+  <!-- Portfolio -->
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PORTFOLIO-ETTAKIFI.TECH-red" alt="Portfolio"/>
+  </a>&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/mohammed-sellak" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+
+  <!-- Email -->
+  <a href="mailto:Mohammed.sellak@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/Mohamedsellak" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;
+
+  <!-- ORCID -->
+  <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/ORCID-0000-0000-0000-0000-8A9A5B?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+</p>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Full-Stack+Developer+%7C+AI+%7C+Data+%7C+Mobile;Turning+Ideas+into+Scalable+Digital+Products;+Leveraging+Data+%26+AI+to+Create+Smart+Experiences" alt="Typing SVG" />
 </p>
 <div align="center">
