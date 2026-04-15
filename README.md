@@ -13,18 +13,18 @@
   </a>
 
   <!-- Email -->
-  <a href="mailto:Mohammed.sellak@hotmail.com">
+  <a href="mailto:hamza.ettakifi@uit.ac.ma">
     <img src="https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>&nbsp;
+  </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/Mohamedsellak" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/EttakifiHamza" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>&nbsp;
 
   <!-- ORCID -->
-  <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/ORCID-0000-0000-0000-0000-8A9A5B?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  <a href="https://orcid.org/0009-0008-0675-2410" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/orcid-Hamza_Ettakifi-brightgreen?style=for-the-badge" alt="ORCID"/>
   </a>
 </p>
 <p align="center">
