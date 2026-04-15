@@ -5,5 +5,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Full-Stack+Developer+%7C+AI+%7C+Data+%7C+Mobile;Turning+Ideas+into+Scalable+Digital+Products;+Leveraging+Data+%26+AI+to+Create+Smart+Experiences" alt="Typing SVG" />
 </p>
 <div align="center">
-  <img height="200" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdscHZpeTFjN3k3MjI0amx0aGRnNW1oczA5Mm51OGxrd25jcG03cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JOamEbyqLENSKitMHi/giphy.gif"  />
+  <img height="300" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdscHZpeTFjN3k3MjI0amx0aGRnNW1oczA5Mm51OGxrd25jcG03cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JOamEbyqLENSKitMHi/giphy.gif"  />
 </div>
