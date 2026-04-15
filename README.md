@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&size=28&width=700&lines=Hamza+Ettakifi+-+Intelligent+Web+Developer+%7C+AI+%26+IoT+%7C+Building+Smart+Digital+Solutions;Turning+Ideas+into+Scalable+Digital+Products" alt="Typing SVG">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=FDFCDC&text=Hamza%20Ettakifi-nl-Innovating%20with%20Code%20|%20Web%20|%20AI%20|%20IoT%20|%20Mobile&reversal=true&textBg=false&fontColor=0081A7&fontSize=35&animation=twinkling&rotate=0" alt="Typing SVG">
 </p>
 <p align="center">
 <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
