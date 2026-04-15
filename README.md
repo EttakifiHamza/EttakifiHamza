@@ -5,12 +5,12 @@
   <!-- Portfolio -->
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/PORTFOLIO-ETTAKIFI.TECH-orange?style=for-the-badge" alt="Portfolio"/>
-  </a>&nbsp;
+  </a>
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/mohammed-sellak" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/hamza-ettakifi-07a369256" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
+  </a>
 
   <!-- Email -->
   <a href="mailto:Mohammed.sellak@hotmail.com">
