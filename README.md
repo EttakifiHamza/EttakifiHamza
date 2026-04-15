@@ -4,7 +4,7 @@
 <p align="center">
   <!-- Portfolio -->
   <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ETTAKIFI.TECH-red" alt="Portfolio"/>
+    <img src="[https://img.shields.io/badge/PORTFOLIO-ETTAKIFI.TECH-red](https://img.shields.io/badge/PORTFOLIO-ETTAKIFI.TECH-orange?style=for-the-badge)" alt="Portfolio"/>
   </a>&nbsp;
 
   <!-- LinkedIn -->
