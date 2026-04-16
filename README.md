@@ -31,20 +31,11 @@
   <img height="300" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdscHZpeTFjN3k3MjI0amx0aGRnNW1oczA5Mm51OGxrd25jcG03cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JOamEbyqLENSKitMHi/giphy.gif"  />
 </div>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
 <table>
 <tr>
 <td width="55%" valign="top">
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
-
 <br/>
 
 ```python
