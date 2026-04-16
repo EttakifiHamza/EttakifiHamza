@@ -48,13 +48,10 @@ class HamzaEttakifiProfile:
         self.__roles = ["Full-Stack Developer", "AI Researcher", "Mobile Developer"]
         self.__current_focus = "Developing Intelligent Solutions & AI"
         self.__motto = "Turning Ideas into Scalable Digital Products"
-
 ```
 <br/>
 
 <!-- <td width="45%" valign="top"> -->
-
-
 <!-- <p align="center">
   <img src="#" width="280" style="border: 4px solid #7c3aed; border-radius: 50%;" alt="" />
 </p> -->
@@ -102,7 +99,7 @@ class HamzaEttakifiProfile:
 <h4 align="center">Full Stack Dev</h4>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" titre="php"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
