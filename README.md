@@ -58,13 +58,13 @@ class HamzaEttakifiProfile:
 ```
 <br/>
 
-<td width="45%" valign="top">
+<!-- <td width="45%" valign="top"> -->
 
 
 <!-- <p align="center">
   <img src="#" width="280" style="border: 4px solid #7c3aed; border-radius: 50%;" alt="" />
 </p> -->
-</td>
+<!-- </td> -->
 </tr>
 </table>
 
