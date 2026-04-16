@@ -39,8 +39,11 @@
 <table>
 <tr>
 <td width="55%" valign="top">
+###
 
-### <img src="https://sellak.tech/_next/image?url=%2Fimages%2Fprofile.JPG" width="28">&nbsp; About Me
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
 
 <br/>
 
