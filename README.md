@@ -45,14 +45,8 @@ class HamzaEttakifiProfile:
         self.__name = "Hamza Ettakifi"
         self.__profession = "Artificial Intelligence Researcher"
         self.__domains = ["AI", "Web", "IoT", "Mobile", "Full-Stack Development"]
-        self.__location = "France 🇫🇷"
         self.__roles = ["Full-Stack Developer", "AI Researcher", "Mobile Developer"]
         self.__current_focus = "Developing Intelligent Solutions & AI"
-        
-        # Updated values for experience and projects
-        self.__experience = "5+ Years"  # Updated with specific number of years
-        self.__projects = "12 Projects Delivered"  # Updated with the actual number of projects
-        
         self.__motto = "Turning Ideas into Scalable Digital Products"
 
 ```
