@@ -64,7 +64,7 @@ class HamzaEttakifiProfile:
 <br/><br/>
 
 <p align="center">
-  <img src="https://wsrv.nl/?url=https://sellak.tech/images/profile.JPG&w=280&h=280&fit=cover&mask=circle&maxage=7d" width="280" style="border: 4px solid #7c3aed; border-radius: 50%;" alt="Mohammed Sellak" />
+  <img src="#" width="280" style="border: 4px solid #7c3aed; border-radius: 50%;" alt="Mohammed Sellak" />
 </p>
 
 </td>
@@ -74,5 +74,32 @@ class HamzaEttakifiProfile:
 <br/>
 <!-- Animated Wave -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+<h2 align="center">⚡ What I Do</h2>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk0aXl6cmk5eWNxOXBocXFveGN1dWVwbmlhNnVqNjE0NHF2MDhnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" /><br/>
+      <b>Full Stack Dev</b><br/>
+      <sub>End-to-end web apps with<br/>modern frameworks & APIs</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZxaTQzZms0Zzgyd2VuenZneWU5YXFvZjlpZmppNmI5d21ndGhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n92hYPiFQ0efcCtrF/giphy.gif" /><br/>
+      <b>AI & ML</b><br/>
+      <sub>Machine Learning models,<br/>Computer Vision, Predictive Analytics,<br/>and Smart Automation</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c0OHIxMW05YXNreWVpcGhuc3liNzBwNmtvZng4MHprajM2M213MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRERwHtgJTf7rTG/giphy.gif" /><br/>
+      <b>Mobile Dev</b><br/>
+      <sub>Native iOS apps with<br/>Swift & Core ML</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDQ2OWdyZWFjdGJxdXNnZGo3b211YjJnZzVyNGxua2lnOGpwZzE2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6NaTTkaqWS6RoV3qt/giphy.gif" /><br/>
+      <b>IoT</b><br/>
+      <sub>Smart devices, sensors<br/> & automation solutions</sub>
+    </td>
+  </tr>
+</table>
+<br/>
 
 
