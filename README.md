@@ -30,6 +30,54 @@
 <div align="center">
   <img height="300" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdscHZpeTFjN3k3MjI0amx0aGRnNW1oczA5Mm51OGxrd25jcG03cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JOamEbyqLENSKitMHi/giphy.gif"  />
 </div>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### <img src="https://sellak.tech/_next/image?url=%2Fimages%2Fprofile.JPG" width="28">&nbsp; About Me
+
+<br/>
+
+```python
+class HamzaEttakifiProfile:
+    def __init__(self):
+        # Private attributes defined in the constructor
+        self.__name = "Hamza Ettakifi"
+        self.__profession = "Artificial Intelligence Researcher"
+        self.__domains = ["AI", "Web", "IoT", "Mobile", "Full-Stack Development"]
+        self.__location = "France 🇫🇷"
+        self.__roles = ["Full-Stack Developer", "AI Researcher", "Mobile Developer"]
+        self.__current_focus = "Developing Intelligent Solutions & AI"
+        
+        # Updated values for experience and projects
+        self.__experience = "5+ Years"  # Updated with specific number of years
+        self.__projects = "12 Projects Delivered"  # Updated with the actual number of projects
+        
+        self.__motto = "Turning Ideas into Scalable Digital Products"
+
+```
+
+<br/>
+
+<td width="45%" valign="top">
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://wsrv.nl/?url=https://sellak.tech/images/profile.JPG&w=280&h=280&fit=cover&mask=circle&maxage=7d" width="280" style="border: 4px solid #7c3aed; border-radius: 50%;" alt="Mohammed Sellak" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
 <!-- Animated Wave -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
