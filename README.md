@@ -32,7 +32,7 @@
 </div>
 
 
-<table>
+<table align="center">
 <tr>
 <td width="55%" valign="top">
 <h3 align="center">👩‍💻  About Me</h3>
