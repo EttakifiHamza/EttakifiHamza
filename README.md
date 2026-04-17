@@ -165,3 +165,54 @@ class HamzaEttakifiProfile:
 </div>
 <!-- Animated Wave -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<!-- PUBLICATIONS -->
+<!-- PUBLICATIONS -->
+<h2 align="center">📰 Publications</h2>
+
+<br/>
+
+<table align="center" width="90%">
+
+<tr>
+
+<td width="45%" style="border:1px solid #30363d; border-radius:10px; padding:15px;">
+<h3>1️⃣ Optimizing LSTM Networks with PSO for Brain Tumor Classification</h3>
+<p><strong>📚 Publication:</strong><br/>
+Proceedings of the 3rd International Conference on Big Data and Artificial Intelligence Applications (ICBDAIA’24)</p>
+<p><strong>📅 Year:</strong> February 2026</p>
+<p><strong>📄 Pages:</strong> 165–174</p>
+<a href="https://doi.org/10.1007/978-3-032-12869-0_17">DOI Link</a></p>
+</td>
+
+<td width="45%" style="border:1px solid #30363d; border-radius:10px; padding:15px;">
+<h3>2️⃣ KNN + Genetic Algorithm for Logistic Chain Optimization</h3>
+<p><strong>📚 Publication:</strong><br/>
+Proceedings of the 3rd International Conference on Big Data and Artificial Intelligence Applications (ICBDAIA’24)</p>
+<p><strong>📅 Year:</strong> February 2026</p>
+<p><strong>📄 Pages:</strong> 1–13</p>
+<a href="https://doi.org/10.1007/978-3-032-12869-0_1">DOI Link</a></p>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="45%" style="border:1px solid #30363d; border-radius:10px; padding:15px;">
+<h3>3️⃣ CNN + Genetic Algorithm for Brain Tumor Prediction</h3>
+<p><strong>📚 Publication:</strong><br/>
+International Journal of Electrical and Computer Engineering (IJECE)</p>
+<p><strong>📅 Year:</strong> 2024</p>
+<a href="https://doi.org/10.11591/ijece.v14i4.pp4325-4335">DOI Link</a></p>
+</td>
+
+<td width="45%" style="border:1px solid #30363d; border-radius:10px; padding:15px;">
+<h3>4️⃣ ANN + Genetic Algorithm for Brain Tumor Prediction</h3>
+<p><strong>📚 Publication:</strong><br/>
+2024 International Conference on Ubiquitous Networking (UNet)</p>
+<p><strong>📅 Year:</strong> June 2024</p>
+<a href="https://doi.org/10.1109/UNet62310.2024.10794710">DOI Link</a></p>
+</td>
+
+</tr>
+
+</table>
