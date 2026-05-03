@@ -4,7 +4,7 @@
 <p align="center">
   <!-- Portfolio -->
   <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ETTAKIFI.TECH-orange?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-ETTAKIFI-orange?style=for-the-badge" alt="Portfolio"/>
   </a>
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/hamza-ettakifi-07a369256" target="_blank" rel="noopener noreferrer">
